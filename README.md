@@ -1,4 +1,4 @@
-Password Complexity Analyzer
+* Password Complexity Analyzer
 
 This is a simple Python script to analyze the strength of a given password based on certain criteria such as the presence of digits, lowercase and uppercase letters, and symbols. It also provides an option to generate a strong password if desired.
 Features
